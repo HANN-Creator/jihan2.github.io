@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4d165873.css",
+    "main.js": "/static/js/main.c3c527c4.js",
+    "static/media/amusement_park2.png": "/static/media/amusement_park2.b33e1fa94b20079b76fb.png",
+    "index.html": "/index.html",
+    "main.4d165873.css.map": "/static/css/main.4d165873.css.map",
+    "main.c3c527c4.js.map": "/static/js/main.c3c527c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d165873.css",
+    "static/js/main.c3c527c4.js"
+  ]
+}
